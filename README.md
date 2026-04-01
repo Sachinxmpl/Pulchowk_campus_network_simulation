@@ -6,7 +6,6 @@ Designed and implemented in Cisco Packet Tracer
 
 ![PCampus Network Topology](./topology.png)
 
----
 
 ## Project Overview
 
